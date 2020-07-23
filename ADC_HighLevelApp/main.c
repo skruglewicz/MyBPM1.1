@@ -1,11 +1,12 @@
-//
-/* Copyright (c) Microsoft Corporation. All rights reserved.
-   Licensed under the MIT License. */
-
+///
+//  MyBPM version 1.1   7/21/2020
+/// By Stephen Kruglewicz
+///
 // This sample C application for Azure Sphere demonstrates how to use ADC (Analog to Digital
 // Conversion).
-// The sample opens an ADC controller which is connected to a potentiometer. Adjusting the
-// potentiometer will change the displayed values.
+// The sample opens an ADC controller which is connected to a 
+//Heart Rate SENSOR
+
 //
 // It uses the API for the following Azure Sphere application libraries:
 // - ADC (Analog to Digital Conversion)
